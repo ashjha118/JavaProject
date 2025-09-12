@@ -38,4 +38,3 @@ public class LeapYearCheck {
         sc.close();
     }
 }
-v
